@@ -18,8 +18,6 @@ So that I can keep a record of my film journey and connect with others who share
 + Enable clients to follow other clients and read their reviews and ratings 
 + Build an algorithm that creates recommendations for the client based on what they have liked, watched, enjoyed and interacted with
 
-
-
 = Performance
 - Average page loading time of under 3 seconds
 
@@ -31,3 +29,21 @@ So that I can keep a record of my film journey and connect with others who share
 
 = Client engagement 
 - 20% of clients review a film each week
+
+=== Required Solutions
+
+Frontend Solutions:
+
+Build a user-friendly application that is fully functional, which allows users to search, sort and rate films, actors and genres.
+
+- Search movie by title, actor and genre.
+- Watchlist creation and management.
+- User login system en registration.
+- Rating submission and review interface.
+
+Backend Solutions:
+
+Build a system using Trailbase as a backend that supports all core data operations.
+
+- Manage data models for 'Movie', 'Actors', 'Genres', 'Reviews', 'Ratings', 'Watchlists', 'Users'.
+- Ensure clean and valid data validation.
