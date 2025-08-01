@@ -5,4 +5,5 @@
 
 = Review Interaction
 
-= GitHub Commits & Comments
+= GitHub Commits and Comments
+
