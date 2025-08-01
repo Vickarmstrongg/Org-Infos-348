@@ -36,7 +36,14 @@ Build a system using Trailbase as a backend that supports all core data operatio
 - Manage data models for 'Movie', 'Actors', 'Genres', 'Reviews', 'Ratings', 'Watchlists', 'Users'.
 - Ensure clean and valid data validation.
 
+= Performance
+- Average page loading time of under 3 seconds
 
+= Review Interaction
+- Average of 3 reviews for the first week
 
+= GitHub Commits and Comments
+- Minimum of 5 commit per week by each group member
 
-
+= Client engagement 
+- 20% of clients review a film each week
