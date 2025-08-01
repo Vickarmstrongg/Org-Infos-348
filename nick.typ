@@ -1,8 +1,8 @@
 
-Client engagement 
+= Client engagement 
 
-Performance
+= Performance
 
-Review Interaction
+= Review Interaction
 
-GitHub Commits & Comments
+= GitHub Commits & Comments
