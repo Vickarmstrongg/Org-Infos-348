@@ -1,6 +1,6 @@
 = Project Plan
 
-==Project Vision 
+== Project Vision 
 
 === Vision Statement
 To build a dynamic, user-friendly platform where film lovers can discover, track, rate, and review movies—creating a personalized and social space for cinematic exploration and engagement
