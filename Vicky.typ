@@ -1,4 +1,4 @@
-= Project Plan
+== Project Plan
 
 Project Vision 
 
@@ -13,5 +13,6 @@ So that I can keep a record of my film journey and connect with others who share
 
 = Goals
 
-To create an information system that enables clients to search and sort within our database of films, actors and genres
++ To create an information system that enables clients to search and sort within our database of films, actors and genres
++
 
